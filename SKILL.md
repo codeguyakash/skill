@@ -1,4 +1,6 @@
 
+[README.md](README.md)
+
 ---
 name: Akash Brand & Anti-AI-UI Standards
 description: Enforces Akash's UI/UX and branding conventions when building, styling, or reviewing any website, app, landing page, or dashboard UI. Use this whenever generating frontend code or design — to avoid generic "AI-generated" visual patterns (default gradients, heavy borders/shadows, unnecessary badges, excessive emoji) and to auto-apply Akash's developer attribution, project-specific email, and legal footer link.
